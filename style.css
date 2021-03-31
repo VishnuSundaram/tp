@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: aqua;
+}
+
+#intro {
+    font-size: 25px;
+    font-family: bold;
+    text-align: center;
+}
